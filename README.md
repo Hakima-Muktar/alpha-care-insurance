@@ -1,2 +1,1 @@
-# alpha-care-insurance
-AlphaCare Insurance Solutions 
+# AlphaCare Insurance Solutions 
