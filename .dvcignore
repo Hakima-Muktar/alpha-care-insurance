@@ -3,15 +3,13 @@ __pycache__/
 *.pyc
 
 # Virtual environment
-venv/
-env/
+ venv/
+ env/
 
 # IDE / Editor files
 .vscode/
 .idea/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
 
 # Logs and temporary files
 *.log
